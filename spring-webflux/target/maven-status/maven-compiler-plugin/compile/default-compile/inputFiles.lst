@@ -1,0 +1,10 @@
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/App.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/dtos/CustomResponse.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/config/WebFluxConfig.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/controllers/RegularRestController.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/controllers/RouterConfiguration.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/services/FunctionalRouterWebHandler.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/controllers/ReactiveRestController.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/services/RegularWebService.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/services/ReactiveWebService.java
+/Users/adamgerard/Desktop/_newWorkspace/_code/spring_2020_refresh/spring-webflux/src/main/java/io/thoughtscript/refresh/webflux/Constants.java
