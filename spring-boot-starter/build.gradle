@@ -15,5 +15,5 @@ dependencies {
 }
 
 application {
-    mainClassName = 'io.thoughtscript.refresh.Application'
+    mainClassName = 'io.thoughtscript.refresh.App'
 }
